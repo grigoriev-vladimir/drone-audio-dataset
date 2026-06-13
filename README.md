@@ -15,8 +15,6 @@ Aacoustic dataset of brushless motor sounds recorded at various throttle levels,
 
 ## 📁 Dataset Structure
 
-Voici l'organisation des fichiers audio au sein du projet :
-
 ```text
 clips/
 ├── no_prop/      # Motors running without propeller
